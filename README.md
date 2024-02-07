@@ -6,4 +6,5 @@ Halley Pham
 
 Descriptions: Styled and designed the page like the designs given. Did responsiveness for each breakpoint (sm,md,lg,xl,2xl)
 
-Peer Reviewer:
+Peer Reviewer: Sinatha Chin
+    - The site looks good! It looks identical to prototype and the responsiveness looks great also. Great job!! :D
